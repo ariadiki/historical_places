@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Historical Places</string>
+    <string name="rate">Rate</string>
+    <string name="rating">rate</string>
+    <string name="place1">Bahia Palace</string>
+    <string name="place2">Toubkal</string>
+    <string name="place3">Jamaa Hassan II</string>
+    <string name="place4">Ouzoud</string>
+    <string name="place5">Kasbah</string>
+    <string name="place6">Jamaa Fna</string>
+    <string name="place7">Chefchaoun</string>
+    <string name="clear">clear all</string>
+</resources>

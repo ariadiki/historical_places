@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">الاماكن التاريخية</string>
+    <string name="rate">قيم</string>
+    <string name="rating">التقييم</string>
+    <string name="place1">باهية</string>
+    <string name="place2">توبقال</string>
+    <string name="place3">جامع حسن الثاني</string>
+    <string name="place4">اوزود</string>
+    <string name="place5">قصبة</string>
+    <string name="place6">جامع الفنا</string>
+    <string name="place7">شفشاون</string>
+    <string name="clear">مسح كل التقييمات</string>
+</resources>
